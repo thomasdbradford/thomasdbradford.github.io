@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/thomasdbradford.github.io/static/css/main.c34a8957.chunk.css",
+    "main.js": "/thomasdbradford.github.io/static/js/main.61f2c897.chunk.js",
+    "main.js.map": "/thomasdbradford.github.io/static/js/main.61f2c897.chunk.js.map",
+    "runtime-main.js": "/thomasdbradford.github.io/static/js/runtime-main.ff09c3bf.js",
+    "runtime-main.js.map": "/thomasdbradford.github.io/static/js/runtime-main.ff09c3bf.js.map",
+    "static/js/2.66faccda.chunk.js": "/thomasdbradford.github.io/static/js/2.66faccda.chunk.js",
+    "static/js/2.66faccda.chunk.js.map": "/thomasdbradford.github.io/static/js/2.66faccda.chunk.js.map",
+    "index.html": "/thomasdbradford.github.io/index.html",
+    "precache-manifest.8ff75ad5be33ca88c43a9cdf6b2fa5f4.js": "/thomasdbradford.github.io/precache-manifest.8ff75ad5be33ca88c43a9cdf6b2fa5f4.js",
+    "service-worker.js": "/thomasdbradford.github.io/service-worker.js",
+    "static/css/main.c34a8957.chunk.css.map": "/thomasdbradford.github.io/static/css/main.c34a8957.chunk.css.map",
+    "static/media/Comfortaa-Regular.ttf": "/thomasdbradford.github.io/static/media/Comfortaa-Regular.ba851e1d.ttf",
+    "static/media/App.css": "/thomasdbradford.github.io/static/media/astronaut-background.04247528.jpg",
+    "static/media/portrait1.png": "/thomasdbradford.github.io/static/media/portrait1.0fb3adbe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff09c3bf.js",
+    "static/js/2.66faccda.chunk.js",
+    "static/css/main.c34a8957.chunk.css",
+    "static/js/main.61f2c897.chunk.js"
+  ]
+}
