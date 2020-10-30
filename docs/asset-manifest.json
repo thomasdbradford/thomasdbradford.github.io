@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.940fd5e0.chunk.css",
+    "main.js": "/static/js/main.9bb18fd4.chunk.js",
+    "main.js.map": "/static/js/main.9bb18fd4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afd99308.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afd99308.js.map",
+    "static/js/2.fa9bcafc.chunk.js": "/static/js/2.fa9bcafc.chunk.js",
+    "static/js/2.fa9bcafc.chunk.js.map": "/static/js/2.fa9bcafc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.62e95c400eebff54a698cc315463cc7d.js": "/precache-manifest.62e95c400eebff54a698cc315463cc7d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.940fd5e0.chunk.css.map": "/static/css/main.940fd5e0.chunk.css.map",
+    "static/media/App.css": "/static/media/astronaut-background.04247528.jpg",
+    "static/media/portrait1.png": "/static/media/portrait1.0fb3adbe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd99308.js",
+    "static/js/2.fa9bcafc.chunk.js",
+    "static/css/main.940fd5e0.chunk.css",
+    "static/js/main.9bb18fd4.chunk.js"
+  ]
+}
